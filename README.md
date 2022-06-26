@@ -1,5 +1,7 @@
 ### Welcome to JN Training GitHub! 👋
-
+Website: https://www.jncomputertraining.com/
+YouTube: https://www.youtube.com/channel/UCKsyi_epOMJU57GB88tygLg
+Linkedin: https://www.linkedin.com/in/jeremy-nathan-24332a20/
 <!--
 **jeremynathan/jeremynathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
