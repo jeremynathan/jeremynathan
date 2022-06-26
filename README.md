@@ -1,4 +1,4 @@
-### Welcome to JN Training GitHub! 👋
+### Welcome to JN Training's GitHub! 👋
 [JN Training Website](https://www.jncomputertraining.com/)
 
 [YouTube Channel](https://www.youtube.com/channel/UCKsyi_epOMJU57GB88tygLg)
