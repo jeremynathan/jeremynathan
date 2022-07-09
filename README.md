@@ -1,4 +1,5 @@
 ### Welcome to Jeremy Nathan's GitHub! 👋
+Goto: [Jeremy Nathan LinkedIn](https://www.linkedin.com/in/jeremy-nathan-24332a20/)
 
 Advisor
 
@@ -12,7 +13,7 @@ Goto: [JN Training Website](https://www.jncomputertraining.com/)
 
 Goto: [JN Training YouTube Channel](https://www.youtube.com/channel/UCKsyi_epOMJU57GB88tygLg)
 
-Goto: [Jeremy Nathan LinkedIn](https://www.linkedin.com/in/jeremy-nathan-24332a20/)
+
 <!--
 **jeremynathan/jeremynathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
