@@ -2,9 +2,11 @@
 About Me 
 
 Advisor
-Technology Trainer
+
 Course Developer
+
 Microsoft Certified Trainer
+
 Independent Contractor
 
 [JN Training Website](https://www.jncomputertraining.com/)
