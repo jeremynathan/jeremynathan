@@ -1,6 +1,9 @@
 ### Welcome to Jeremy Nathan's GitHub! 👋
-About MeAdvisor
-Technology TrainerCourse Developer
+About Me 
+
+Advisor
+Technology Trainer
+Course Developer
 Microsoft Certified Trainer
 Independent Contractor
 
