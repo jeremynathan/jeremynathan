@@ -1,4 +1,9 @@
 ### Welcome to Jeremy Nathan's GitHub! 👋
+About MeAdvisor
+Technology TrainerCourse Developer
+Microsoft Certified Trainer
+Independent Contractor
+
 [JN Training Website](https://www.jncomputertraining.com/)
 
 [YouTube Channel](https://www.youtube.com/channel/UCKsyi_epOMJU57GB88tygLg)
