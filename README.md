@@ -8,11 +8,11 @@ Microsoft Certified Trainer
 
 Independent Contractor
 
-[JN Training Website](https://www.jncomputertraining.com/)
+Goto: [JN Training Website](https://www.jncomputertraining.com/)
 
-[YouTube Channel](https://www.youtube.com/channel/UCKsyi_epOMJU57GB88tygLg)
+Goto: [YouTube Channel](https://www.youtube.com/channel/UCKsyi_epOMJU57GB88tygLg)
 
-[LinkedIn](https://www.linkedin.com/in/jeremy-nathan-24332a20/)
+Goto: [LinkedIn](https://www.linkedin.com/in/jeremy-nathan-24332a20/)
 <!--
 **jeremynathan/jeremynathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
