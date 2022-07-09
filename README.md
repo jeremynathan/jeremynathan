@@ -1,5 +1,5 @@
 ### Welcome to Jeremy Nathan's GitHub! 👋
-Goto: [Jeremy Nathan LinkedIn](https://www.linkedin.com/in/jeremy-nathan-24332a20/)
+Connect with: [Jeremy Nathan LinkedIn](https://www.linkedin.com/in/jeremy-nathan-24332a20/)
 
 Advisor
 
