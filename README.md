@@ -1,5 +1,4 @@
 ### Welcome to Jeremy Nathan's GitHub! 👋
-About Me 
 
 Advisor
 
