@@ -1,7 +1,7 @@
 ### Welcome to Jeremy Nathan's GitHub! 👋
 Connect with: [Jeremy Nathan LinkedIn](https://www.linkedin.com/in/jeremy-nathan-24332a20/)
 
-I am a Course Developer and Microsoft Certified Trainer.
+I am a Course Developer, Microsoft Certified Trainer and an independent contractor.
 
 Check out my website here: [JN Training Website](https://www.jncomputertraining.com/)
 
