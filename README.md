@@ -7,8 +7,6 @@ Course Developer
 
 Microsoft Certified Trainer
 
-Independent Contractor
-
 Goto: [JN Training Website](https://www.jncomputertraining.com/)
 
 Goto: [JN Training YouTube Channel](https://www.youtube.com/channel/UCKsyi_epOMJU57GB88tygLg)
